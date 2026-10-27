@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![3D Contributions](./profile-3d-contrib/profile-gitblock.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="680" alt="3D contribution chart" />
+</p>
