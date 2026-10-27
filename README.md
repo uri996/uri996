@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **uri996/uri996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## My GitHub Contributions
 
 ![3D Contributions](./profile-3d-contrib/profile-gitblock.svg)
