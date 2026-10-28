@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="680" alt="3D contribution chart" />
+  <img
+    src="https://raw.githubusercontent.com/uri996/uri996/output/skyline.svg"
+    width="760"
+    alt="GitHub Skyline"
+  />
 </p>
