@@ -22,9 +22,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           go run github.com/pinkpixel-dev/skyline@latest \
-            -theme ice \
+            -theme amber \
             -height 10 \
-            -weeks 40 \
+            -weeks 48 \
             -svg skyline.svg \
             "${{ github.repository_owner }}"
 
